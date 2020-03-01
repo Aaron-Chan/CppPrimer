@@ -1,0 +1,9 @@
+book1 2 3 avr_price 1.5
+book2 2 2 avr_price 1
+book3 1 1 avr_price 1
+book1 2 3 avr_price 1.5
+book2 2 2 avr_price 1
+book3 1 1 avr_price 1
+book1 2 3 avr_price 1.5
+book2 2 2 avr_price 1
+book3 1 1 avr_price 1
