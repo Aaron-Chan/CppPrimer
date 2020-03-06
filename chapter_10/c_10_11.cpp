@@ -22,9 +22,9 @@ void elimDups(){
     for(auto & const value:str_vect){
         cout << "value " <<value <<endl;
     }
+    sort(str_vect.begin(),str_vect.end());
     auto unique_end = unique(str_vect.begin(),str_vect.end());
     str_vect.erase(unique_end,str_vect.end());
-    sort(str_vect.begin(),str_vect.end());
      for(auto & const value:str_vect){
         cout << "sort  value " <<value <<endl;
     }
